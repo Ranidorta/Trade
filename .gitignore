@@ -1,0 +1,6 @@
+signals.db
+*.pkl
+__pycache__/
+.env
+agent.log
+*.log

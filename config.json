@@ -1,0 +1,16 @@
+{
+  "api_key": "YOUR_API_KEY",
+  "api_secret": "YOUR_SECRET",
+  "testnet": false,
+  "symbol": "BTCUSDT",
+  "category": "linear",
+  "interval": 60,
+  "moving_avg_short": 10,
+  "moving_avg_long": 50,
+  "rsi_period": 14,
+  "account_balance": 10000,
+  "risk_per_trade": 0.01,
+  "db_path": "signals.db",
+  "model_path": "model.pkl",
+  "log_file": "agent.log"
+}
