@@ -1,3 +1,0 @@
-# trade_signal_agent
-
-Agente modular de geração de sinais de trade usando a API da Bybit (via PyBit)...
